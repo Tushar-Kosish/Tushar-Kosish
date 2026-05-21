@@ -47,7 +47,15 @@ const tushar = {
 
 <br/>
 
-## 🐍 GitHub Contribution Snake
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-kosish&bg_color=0d1117&color=8B5CF6&line=06b6d4&point=8B5CF6&area=true&hide_border=true" width="100%" alt="Tushar Kosish's Activity Graph" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
