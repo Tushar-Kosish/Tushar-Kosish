@@ -50,7 +50,7 @@ const tushar = {
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-kosish&bg_color=0d1117&color=8B5CF6&line=06b6d4&point=8B5CF6&area=true&hide_border=true" width="100%" alt="Tushar Kosish's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-Kosish&bg_color=0d1117&color=8B5CF6&line=06b6d4&point=8B5CF6&area=true&hide_border=true" width="100%" alt="Tushar Kosish's Activity Graph" />
 </div>
 
 <br/>
@@ -70,7 +70,7 @@ const tushar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-kosish&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Tushar-Kosish&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -80,11 +80,11 @@ const tushar = {
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://github-readme-stats.shion.dev/api?username=Tushar-kosish&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" width="400" /></td>
-      <td align="center"><img src="https://streak-stats.demolab.com/?user=Tushar-kosish&theme=gruvbox&hide_border=false" width="400" /></td>
+      <td align="center"><img src="https://github-readme-stats.shion.dev/api?username=Tushar-Kosish&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" width="400" /></td>
+      <td align="center"><img src="https://streak-stats.demolab.com/?user=Tushar-Kosish&theme=gruvbox&hide_border=false" width="400" /></td>
     </tr>
     <tr>
-      <td align="center" colspan="2"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tushar-kosish&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" /></td>
+      <td align="center" colspan="2"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tushar-Kosish&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" /></td>
     </tr>
   </table>
 </div>
