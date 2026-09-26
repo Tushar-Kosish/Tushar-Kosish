@@ -19,7 +19,7 @@
 
 <a href="https://github.com/Tushar-Kosish?tab=followers"><img src="https://img.shields.io/github/followers/Tushar-Kosish?style=flat-square&color=8B5CF6&labelColor=0d1117&label=followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=Tushar-Kosish&style=flat-square&color=06b6d4&label=views" />
-<a href="mailto:tusharkaushish2007@gmail.com"><img src="https://img.shields.io/badge/contact-tushar_kosish-ec4899?style=flat-square&labelColor=0d1117" /></a>
+<a href="mailto:tusharkosish6@gmail.com"><img src="https://img.shields.io/badge/contact-tushar_kosish-ec4899?style=flat-square&labelColor=0d1117" /></a>
 
 </div>
 
@@ -99,7 +99,7 @@ const tushar = {
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tusharsflex?igsh=YXlrazVrMnBoeXVy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-k-6983883a6)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Tusharkosish)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkaushish2007@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkosish6@gmail.com)
 
 </div>
 
