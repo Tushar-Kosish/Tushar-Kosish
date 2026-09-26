@@ -80,11 +80,11 @@ const tushar = {
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://github-readme-stats.shion.dev/api?username=Tushar-Kosish&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" width="400" /></td>
+      <td align="center"><img src="https://github-readme-stats.shion.dev/api?username=Tushar-Kosish&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" width="400" /></td>
       <td align="center"><img src="https://streak-stats.demolab.com/?user=Tushar-Kosish&theme=gruvbox&hide_border=false" width="400" /></td>
     </tr>
     <tr>
-      <td align="center" colspan="2"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tushar-Kosish&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" /></td>
+      <td align="center" colspan="2"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tushar-Kosish&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" /></td>
     </tr>
   </table>
 </div>
@@ -97,7 +97,7 @@ const tushar = {
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tushar_02389)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tusharsflex?igsh=YXlrazVrMnBoeXVy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kosish-6983883a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-k-6983883a6)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Tusharkosish)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkaushish2007@gmail.com)
 
